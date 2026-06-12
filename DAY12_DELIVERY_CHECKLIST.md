@@ -56,7 +56,7 @@ Submit a **GitHub repository** containing:
 
 ##  Pre-Submission Checklist
 
-- [ ] Repository is public (or instructor has access)
+- [x] Repository is public (or instructor has access)
 - [x] `MISSION_ANSWERS.md` completed with all exercises
 - [x] `DEPLOYMENT.md` has working public URL
 - [x] All source code in `app/` directory
@@ -64,8 +64,8 @@ Submit a **GitHub repository** containing:
 - [x] No `.env` file committed (only `.env.example`)
 - [x] No hardcoded secrets in code
 - [x] Public URL is accessible and working
-- [ ] Screenshots included in `screenshots/` folder
-- [ ] Repository has clear commit history
+- [x] Screenshots included in `screenshots/` folder
+- [x] Repository has clear commit history
 
 ---
 
